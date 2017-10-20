@@ -1,5 +1,5 @@
 {
-  "name": "noflo-browser-app",
+  "name": "check-noflo-canvas",
   "description": "The best project ever.",
   "version": "0.1.0",
   "author": {
@@ -18,7 +18,8 @@
     "noflo": "~0.8.0",
     "noflo-core": "^0.4.0",
     "noflo-dom": "^0.2.0",
-    "noflo-interaction": "^0.2.0"
+    "noflo-interaction": "^0.2.0",
+    "noflo-canvas": "noflo/noflo-canvas#process_api"
   },
   "devDependencies": {
     "chai": "^4.0.0",
