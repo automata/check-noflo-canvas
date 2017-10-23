@@ -20,7 +20,7 @@
     "noflo-dom": "^0.2.0",
     "noflo-interaction": "^0.2.0",
     "noflo-canvas": "^0.3.1",
-    "noflo-webaudio": "noflo/noflo-webaudio#modernize"
+    "noflo-webaudio": "noflo/noflo-webaudio#fix_play"
   },
   "devDependencies": {
     "chai": "^4.0.0",
