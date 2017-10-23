@@ -19,7 +19,8 @@
     "noflo-core": "^0.4.0",
     "noflo-dom": "^0.2.0",
     "noflo-interaction": "^0.2.0",
-    "noflo-canvas": "noflo/noflo-canvas#process_api"
+    "noflo-canvas": "^0.3.1",
+    "noflo-webaudio": "noflo/noflo-webaudio#modernize"
   },
   "devDependencies": {
     "chai": "^4.0.0",
